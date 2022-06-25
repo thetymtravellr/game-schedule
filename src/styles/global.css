@@ -3,6 +3,7 @@ body {
   color: #333;
 }
 
+.heading,
 .section-title {
   font-weight: 900;
 }
